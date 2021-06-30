@@ -53,44 +53,24 @@ class App extends Component {
     }
 
     render() {
-
         return (
-
             <div className='App'>
-
                 <div className='main'>
-
                     <div className='timer-area'>
                         <h1 className='heading'>Timer</h1>
-
                         <div className='container first'>
                             <button className='btn' onClick={this.decrementCount}> - </button>
-
                             <span className='span'>{this.state.count}</span>
-
                             <button className='btn' onClick={this.incrementCount}> + </button>
-
                         </div>
-
                         <div className='container '>
-
                             <button className='btn' onClick={this.startTimer}>start</button>
                             <button className='btn' onClick={this.stopTimer}>stop</button>
                             <button className='btn' onClick={this.resetTimer}>reset</button>
-
-
                             <p>Created By Md. Samiul Ahmed</p>
-
                         </div>
                     </div>
-
-
-
                 </div>
-
-
-
-
             </div>
         );
     }
