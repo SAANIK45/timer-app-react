@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SAANIK45/timer-app-react.git/static/css/main.d9abc958.chunk.css",
+    "main.js": "/SAANIK45/timer-app-react.git/static/js/main.a39f8cd6.chunk.js",
+    "main.js.map": "/SAANIK45/timer-app-react.git/static/js/main.a39f8cd6.chunk.js.map",
+    "runtime-main.js": "/SAANIK45/timer-app-react.git/static/js/runtime-main.8d4bf296.js",
+    "runtime-main.js.map": "/SAANIK45/timer-app-react.git/static/js/runtime-main.8d4bf296.js.map",
+    "static/js/2.858342b9.chunk.js": "/SAANIK45/timer-app-react.git/static/js/2.858342b9.chunk.js",
+    "static/js/2.858342b9.chunk.js.map": "/SAANIK45/timer-app-react.git/static/js/2.858342b9.chunk.js.map",
+    "static/js/3.1248dae5.chunk.js": "/SAANIK45/timer-app-react.git/static/js/3.1248dae5.chunk.js",
+    "static/js/3.1248dae5.chunk.js.map": "/SAANIK45/timer-app-react.git/static/js/3.1248dae5.chunk.js.map",
+    "index.html": "/SAANIK45/timer-app-react.git/index.html",
+    "static/css/main.d9abc958.chunk.css.map": "/SAANIK45/timer-app-react.git/static/css/main.d9abc958.chunk.css.map",
+    "static/js/2.858342b9.chunk.js.LICENSE.txt": "/SAANIK45/timer-app-react.git/static/js/2.858342b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d4bf296.js",
+    "static/js/2.858342b9.chunk.js",
+    "static/css/main.d9abc958.chunk.css",
+    "static/js/main.a39f8cd6.chunk.js"
+  ]
+}
